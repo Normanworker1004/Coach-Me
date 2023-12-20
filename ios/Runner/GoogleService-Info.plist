@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>285083201803-722lpmahmmp8n28q8avffpc7cpe88rra.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.285083201803-722lpmahmmp8n28q8avffpc7cpe88rra</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>285083201803-3mg9li559ogsgc9m4hq0ree98jc2rlpv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVyA7kS9dVWsUaWbONhJGWUU-d3PlUmls</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285083201803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mits.cme</string>
+	<key>PROJECT_ID</key>
+	<string>coachandme-10293</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coachandme-10293.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285083201803:ios:0a989e7bd16a25b0f9720e</string>
+	<key>DATABASE_URL</key>
+	<string>https://coachandme-10293.firebaseio.com</string>
+</dict>
+</plist>

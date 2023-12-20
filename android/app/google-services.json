@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "285083201803",
+    "firebase_url": "https://coachandme-10293.firebaseio.com",
+    "project_id": "coachandme-10293",
+    "storage_bucket": "coachandme-10293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285083201803:android:d901c984bbe1c6cff9720e",
+        "android_client_info": {
+          "package_name": "com.mits.cme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285083201803-ovs1dbrojn7v0opherrhn0u4r6g5bekq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mits.cme",
+            "certificate_hash": "8919a933af431494693aef0d3c877538d0c4ee37"
+          }
+        },
+        {
+          "client_id": "285083201803-upeipjemn78tuofmar7dbek7pu48q2db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLbSTUVhDRwwVLTOOHgWBwD78NHuHfsNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285083201803-upeipjemn78tuofmar7dbek7pu48q2db.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285083201803-722lpmahmmp8n28q8avffpc7cpe88rra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mits.cme"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285083201803:android:30a6ce82802577e7f9720e",
+        "android_client_info": {
+          "package_name": "com.mits.cme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285083201803-upeipjemn78tuofmar7dbek7pu48q2db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLbSTUVhDRwwVLTOOHgWBwD78NHuHfsNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285083201803-upeipjemn78tuofmar7dbek7pu48q2db.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285083201803-722lpmahmmp8n28q8avffpc7cpe88rra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mits.cme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
